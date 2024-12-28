@@ -2,36 +2,57 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.haxeho.top/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://pan.haxeho.top/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://me.haxeho.top/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "Git",
+    "link": "https://gogs.haxeho.top/haxeho"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "LogoGoogle",
+    "name": "谷歌",
+    "link": "https://google.haxeho.top/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "CompactDisc",
+    "name": "Panel",
+    "link": "https://Panel.haxeho.top:9225/haxeho"
+  },
+  {
+    "icon": "AccessPoint",
+    "name": "OpenWrt",
+    "link": "http://192.168.22.1/cgi-bin/luci/"
+  },
+  {
+    "icon": "LogoXing",
+    "name": "Proxmox VE",
+    "link": "https://192.168.22.11:8006/"
+  },
+  {
+    "icon": "VmdkDisk",
+    "name": "FnOS",
+    "link": "http://192.168.22.222:5666/login"
+  },
+  {
+    "icon": "WifiSharp",
+    "name": "Router",
+    "link": "http://192.168.10.1/"
+  },
+  {
+    "icon": "VmdkDisk",
+    "name": "FnOS_Out",
+    "link": "https://5ddd.com/haxeho"
   }
 ]
+
